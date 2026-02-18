@@ -6,4 +6,4 @@
 />
 </a>
 
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjUxMDQ3OTQ3)](https://www.git-ranker.com/users/NotQuiteDev)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCAIhpQ)](https://www.git-ranker.com)
