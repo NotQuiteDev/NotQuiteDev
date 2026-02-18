@@ -5,3 +5,5 @@
   height="300"
 />
 </a>
+
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjUxMDQ3OTQ3)](https://www.git-ranker.com/users/NotQuiteDev)
